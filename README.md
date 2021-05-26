@@ -10,8 +10,8 @@ In the database I put all this data.
 
 and with a query I extract it again form the database table  github_users.
 
-To make run the program you need to install a virtual environment 
-with flask, flask-SQLAlchemy, wtforms ans a SQLite3 data base.
+The program need's a virtual environment with flask, flask-SQLAlchemy, wtforms ans a SQLite3 data base.
 
+to make it run you can use the "flask run" command
 
 
